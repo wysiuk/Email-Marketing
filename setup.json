@@ -1,0 +1,23 @@
+[
+	{
+		"id": 132,
+		"type": "module",
+		"name": "Email Marketing",
+		"slug": "email-marketing",
+		"detail": false,
+		"detail_template": "templates/blank_page",
+		"detail_default_layout": "default",
+		"sz": false,
+		"sz_updated": false,
+		"sz_display_type": "404",
+		"use_standard_fields": false,
+		"system_fields": {
+			"module_field_132_1": {
+				"name": "Sendgrid API Key",
+				"type": "input_text",
+				"live": true,
+				"required": false
+			}
+		}
+	}
+]
